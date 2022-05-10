@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tfjs-mobilebert/static/css/main.1ef3a49a.css",
+    "main.js": "/tfjs-mobilebert/static/js/main.5bc3f0aa.js",
+    "index.html": "/tfjs-mobilebert/index.html",
+    "main.1ef3a49a.css.map": "/tfjs-mobilebert/static/css/main.1ef3a49a.css.map",
+    "main.5bc3f0aa.js.map": "/tfjs-mobilebert/static/js/main.5bc3f0aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ef3a49a.css",
+    "static/js/main.5bc3f0aa.js"
+  ]
+}

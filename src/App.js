@@ -34,11 +34,11 @@ const App = () => {
     };
 
     useEffect(() => {
-        console.log(tfgl.version_webgl);
-        console.log(tf.getBackend());
-        tfgl.webgl.forceHalfFloat();
-        var maxSize = tfgl.webgl_util.getWebGLMaxTextureSize(tfgl.version_webgl);
-        console.log(maxSize);
+        // console.log(tfgl.version_webgl);
+        // console.log(tf.getBackend());
+        // tfgl.webgl.forceHalfFloat();
+        // var maxSize = tfgl.webgl_util.getWebGLMaxTextureSize(tfgl.version_webgl);
+        // console.log(maxSize);
         tf.ready().then((_) => {
             tf.enableProdMode();
             console.log("tfjs is ready");
